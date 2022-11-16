@@ -18,7 +18,7 @@ object MongodbTweetsWordFreqCalculator extends App {
 
   import spark.implicits._
 
-
+  //////////// Aseel Hamayel For BIG DATA COURSE /////////////////////////////////////////////////
   /////////// Read the json data /////////////////////////////////////////////////////////////////
 
   val tweetsJson = spark.read
